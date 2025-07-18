@@ -469,3 +469,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 19:59:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs was slain by Zombie
 [18Jul2025 20:02:46.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs has made the advancement [Acquire Hardware]
 [18Jul2025 20:03:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs has made the advancement [Suit Up]
+[18Jul2025 20:16:09.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yazuuxs lost connection: Disconnected
+[18Jul2025 20:16:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs left the game
+[18Jul2025 20:16:09.519] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yazuuxs

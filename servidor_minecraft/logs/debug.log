@@ -6186,3 +6186,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jul2025 20:00:47.493] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [18Jul2025 20:02:46.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs has made the advancement [Acquire Hardware]
 [18Jul2025 20:03:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs has made the advancement [Suit Up]
+[18Jul2025 20:05:47.491] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 20:08:34.485] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (436 | 65 | 116).
+[18Jul2025 20:08:34.487] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[18Jul2025 20:08:34.489] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 7(0) Nodes and 7(0) Rooms
+[18Jul2025 20:08:34.489] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[18Jul2025 20:08:34.490] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 9(0) Nodes and 6(0) Rooms
+[18Jul2025 20:08:34.490] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[18Jul2025 20:08:34.490] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 7(0) Rooms
+[18Jul2025 20:08:34.491] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[18Jul2025 20:08:34.491] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(6) Nodes and 6(0) Rooms
+[18Jul2025 20:08:34.491] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[18Jul2025 20:08:34.491] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 7(0) Rooms
+[18Jul2025 20:10:47.484] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 20:15:47.486] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[18Jul2025 20:16:09.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yazuuxs lost connection: Disconnected
+[18Jul2025 20:16:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yazuuxs left the game
+[18Jul2025 20:16:09.517] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Yazuuxs
+[18Jul2025 20:16:09.519] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yazuuxs
+[18Jul2025 20:20:47.459] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
