@@ -1,0 +1,467 @@
+[03:21:22] [main/INFO]: Loading Minecraft 26.2 with Fabric Loader 0.19.3
+[03:21:22] [main/INFO]: Mappings not present!
+[03:21:23] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 26.2.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Friends&Foes' (friendsandfoes) 4.0.27 recommends any version of yet_another_config_lib_v3, which is missing!
+	 - You should install any version of yet_another_config_lib_v3 for the optimal experience.
+ - Mod 'Friends&Foes' (friendsandfoes) 4.0.27 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[03:21:23] [main/INFO]: Loading 89 mods:
+	- architectury 21.0.7
+	- balm 26.2.0.6
+	   \-- kuma_api 26.2.0.1
+	- biomesoplenty 26.2.0.0.27
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   \-- net_jodah_typetools 0.6.3
+	- cristellib 3.1.10
+	   \-- blue_endless_jankson 1.2.3
+	- enderzoology 26.2.0
+	- explorify 1.6.5
+	- fabric-api 0.157.0+26.2
+	   |-- fabric-api-base 2.0.4+ece063239e
+	   |-- fabric-api-lookup-api-v1 2.0.17+11e1c9a39e
+	   |-- fabric-biome-api-v1 18.0.6+c7bd5b8e9e
+	   |-- fabric-block-api-v1 3.0.3+ec56b6019e
+	   |-- fabric-block-getter-api-v2 2.0.7+ec56b6019e
+	   |-- fabric-command-api-v2 3.1.0+00cb03469e
+	   |-- fabric-content-registries-v0 11.3.1+37b1aa249e
+	   |-- fabric-convention-tags-v2 4.7.0+1f023a9e9e
+	   |-- fabric-crash-report-info-v1 1.0.5+086d547a9e
+	   |-- fabric-creative-tab-api-v1 5.0.14+d871b99e9e
+	   |-- fabric-data-attachment-api-v1 2.2.18+515ac5339e
+	   |-- fabric-data-generation-api-v1 25.5.0+aed122aa9e
+	   |-- fabric-debug-api-v1 1.0.2+c792624d9e
+	   |-- fabric-dimensions-v1 5.1.11+515ac5339e
+	   |-- fabric-entity-events-v1 5.0.5+06488ac19e
+	   |-- fabric-events-interaction-v0 5.2.7+515ac5339e
+	   |-- fabric-game-rule-api-v1 4.0.8+46a6d00c9e
+	   |-- fabric-item-api-v1 14.4.0+49a69a7b9e
+	   |-- fabric-key-mapping-api-v1 2.0.5+e2bdee789e
+	   |-- fabric-lifecycle-events-v1 4.1.3+4575b05f9e
+	   |-- fabric-loot-api-v3 3.0.17+06488ac19e
+	   |-- fabric-menu-api-v1 2.0.16+086d547a9e
+	   |-- fabric-message-api-v1 7.0.8+bb2ed3f79e
+	   |-- fabric-model-loading-api-v1 8.0.16+c80601bb9e
+	   |-- fabric-networking-api-v1 6.3.3+72073ef09e
+	   |-- fabric-object-builder-api-v1 24.1.0+6fcd5f039e
+	   |-- fabric-particles-v1 5.0.18+d1756aa99e
+	   |-- fabric-permission-api-v1 1.0.5+e442d8d09e
+	   |-- fabric-recipe-api-v1 9.0.20+11e1c9a39e
+	   |-- fabric-registry-sync-v0 7.1.0+c7bd5b8e9e
+	   |-- fabric-renderer-api-v1 14.1.3+2b0d8a229e
+	   |-- fabric-renderer-indigo 9.1.3+2b0d8a229e
+	   |-- fabric-rendering-fluids-v1 6.0.4+06488ac19e
+	   |-- fabric-rendering-v1 25.3.2+515ac5339e
+	   |-- fabric-resource-conditions-api-v1 6.1.0+10e9a28b9e
+	   |-- fabric-resource-loader-v0 3.3.20+4fc5413f9e
+	   |-- fabric-resource-loader-v1 2.0.13+9edec1269e
+	   |-- fabric-screen-api-v1 5.2.0+58e078ad9e
+	   |-- fabric-serialization-api-v1 2.0.4+11a26f319e
+	   |-- fabric-sound-api-v1 2.0.5+11a26f319e
+	   |-- fabric-tag-api-v1 2.1.4+515ac5339e
+	   |-- fabric-transfer-api-v1 8.0.12+11dbb7d79e
+	   \-- fabric-transitive-access-wideners-v1 8.1.4+67c847259e
+	- fabricloader 0.19.3
+	   \-- mixinextras 0.5.4
+	- fallingtree 25
+	- forgeconfigapiport 26.2.0
+	   |-- com_electronwill_night-config_core 3.8.4
+	   \-- com_electronwill_night-config_toml 3.8.4
+	- friendsandfoes 4.0.27
+	- fusion 1.3.12
+	- glitchcore 26.2.0.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- java 25
+	- jei 30.24.0.167
+	- mcwdoors 1.1.5
+	- mcwfences 1.2.1
+	- mcwfurnitures 3.4.1
+	- mcwholidays 1.1.2
+	- mcwlights 1.1.5
+	- mcwpaintings 1.1.0
+	- mcwpaths 1.1.1
+	- mcwroofs 2.3.2
+	- mcwstairs 1.0.2
+	- mcwtrpdoors 1.1.5
+	- mcwwindows 2.4.2
+	- minecraft 26.2
+	- mr_vanilla_backpacks 1.3.5
+	- puzzleslib 26.2.3
+	- rechiseled 1.2.5
+	- resourcefullib 5.0.3
+	   |-- com_teamresourceful_bytecodecs 1.1.3
+	   \-- com_teamresourceful_yabn 1.0.3
+	- shogi 26.2.0.5
+	   \-- shogi_api 26.2.0.5
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.24
+	- t_and_t 1.13.11
+	- terrablender 26.2.0.0.2
+	- travelersbackpack 11.3.1
+	- waystones 26.2.0.9
+	- xaerominimap 26.4.2
+	   \-- xaerolib 1.7.1
+	- xaeroworldmap 1.44.2
+	   \-- xaerolib 1.7.1
+	- zeroteam_gravestone 1.0.4
+	- zeroteam_zero_lib 1.0.1
+[03:21:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serverergais/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:21:24] [main/INFO]: Compatibility level set to JAVA_25
+[03:21:24] [main/WARN]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'glitchcore.refmap.json' for glitchcore.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'kuma_api.refmap.json' for kuma_api.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:24] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:21:25] [main/WARN]: Error loading class: de/siphalor/amecs/key_modifiers/impl/AmecsKeyModifiersEarlyInit (java.lang.ClassNotFoundException: de/siphalor/amecs/key_modifiers/impl/AmecsKeyModifiersEarlyInit)
+[03:21:25] [main/WARN]: @Mixin target de.siphalor.amecs.key_modifiers.impl.AmecsKeyModifiersEarlyInit was not found jei.mixins.json:AmecsKeyModifiersEarlyInitMixin from mod jei
+[03:21:25] [main/WARN]: Error loading class: net/minecraft/client/renderer/state/level/BlockOutlineRenderState (java.lang.ClassNotFoundException: net/minecraft/client/renderer/state/level/BlockOutlineRenderState)
+[03:21:25] [main/WARN]: @Mixin target net.minecraft.client.renderer.state.level.BlockOutlineRenderState was not found resourcefullib.mixins.json:BlockOutlineRenderStateMixin from mod resourcefullib
+[03:21:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[03:21:33] [main/INFO]: Mod proxy balm:permissions resolved as net.blay09.mods.balm.platform.permissions.internal.CommonBalmPermissions@42e24309
+[03:21:33] [main/INFO]: Constructing components for enderzoology:common
+[03:21:33] [main/INFO]: Dispatching loading event for config enderzoology-common.toml
+[03:21:37] [main/INFO]: Constructing components for puzzleslib:common
+[03:21:37] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03:21:37] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[03:21:37] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[03:21:37] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[03:21:37] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[03:21:37] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03:21:37] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03:21:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[03:21:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[03:21:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[03:21:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[03:21:39] [main/INFO]: Zero Lib initialized
+[03:21:39] [main/INFO]: Gravestone initialized
+[03:21:41] [main/INFO]: Registering common data for channel xaerolib:main!
+[03:21:41] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[03:21:41] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[03:21:41] [main/INFO]: Loading XaeroLib common 1/2!
+[03:21:41] [main/INFO]: Loading XaeroLib server 1/2!
+[03:21:41] [main/INFO]: Registering common data for channel xaerominimap:main!
+[03:21:41] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[03:21:41] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[03:21:41] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03:21:41] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[03:21:41] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[03:21:41] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[03:21:41] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03:21:41] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:21:41] [main/INFO]: 1 chiseling plugins were registered: [rechiseled:datapacks]
+[03:21:44] [main/INFO]: Loaded 5717 recipes
+[03:21:44] [main/INFO]: Loaded 2837 advancements
+[03:21:44] [main/INFO]: Loaded 27 entity animations
+[03:21:44] [main/INFO]: Loaded 1 moobloom variants
+[03:21:45] [main/INFO]: Loaded 45 chiseling recipes
+[03:21:45] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03:21:45] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03:21:46] [main/INFO]: Applied 298 biome modifications to 124 of 135 new biomes in 93.94 ms
+[03:21:46] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[03:21:46] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[03:21:46] [Server thread/INFO]: Starting minecraft server version 26.2
+[03:21:46] [Server thread/INFO]: Loading properties
+[03:21:46] [Server thread/INFO]: Default game type: SURVIVAL
+[03:21:46] [Server thread/INFO]: Generating keypair
+[03:21:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:21:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:21:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:21:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:21:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:21:46] [Server thread/INFO]: Preparing level "world"
+[03:21:46] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:21:46] [Server thread/INFO]: Preparing spawn area: 100%
+[03:21:46] [Server thread/INFO]: Time elapsed: 14 ms
+[03:21:46] [Server thread/INFO]: Done (0.505s)! For help, type "help"
+[03:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:21:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:21:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:21:47] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03:21:47] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03:22:02] [Server thread/INFO]: Yazuu[/172.29.222.16:58055] logged in with entity id 88 at (60.61142163058862, 65.12373513392824, -1143.7805118954752)
+[03:22:02] [Server thread/INFO]: Yazuu joined the game
+[03:22:48] [Server thread/INFO]: bohemia[/172.29.182.214:56494] logged in with entity id 570 at (3553.6520142853064, -49.2468000194788, -2593.65848431921)
+[03:22:48] [Server thread/INFO]: bohemia joined the game
+[03:23:02] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[03:23:57] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[03:24:13] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[03:24:13] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[03:24:36] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:57112] logged in with entity id 2187 at (-53.04045441326744, 64.16610926093821, -234.90028455942667)
+[03:24:36] [Server thread/INFO]: Mattute_uwu joined the game
+[03:24:54] [Server thread/WARN]: Mattute_uwu was kicked for floating too long!
+[03:24:54] [Server thread/INFO]: Mattute_uwu lost connection: Flying is not enabled on this server
+[03:24:54] [Server thread/INFO]: Mattute_uwu left the game
+[03:24:54] [Server thread/WARN]: handleDisconnection() called twice
+[03:25:37] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:57122] logged in with entity id 3284 at (-53.04045441326744, 64.16610926093821, -234.90028455942667)
+[03:25:37] [Server thread/INFO]: Mattute_uwu joined the game
+[03:26:01] [Server thread/INFO]: Mod proxy <unnamed> resolved as net.blay09.mods.balm.platform.compatibility.trinkets.internal.NoopTrinkets@3445218e
+[03:26:19] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[03:26:19] [Server thread/INFO]: dsadas<--[HERE]
+[03:26:19] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[03:26:19] [Server thread/INFO]: <--[HERE]
+[03:26:23] [Server thread/INFO]: DraculaNew[/172.29.103.188:51644] logged in with entity id 4216 at (159.87665336005526, 92.0, -1167.6293088575767)
+[03:26:23] [Server thread/INFO]: DraculaNew joined the game
+[03:26:28] [Server thread/INFO]: DraculaNew fell from a high place
+[03:26:28] [Server thread/INFO]: Created new backpack backup file for DraculaNew with unique ID travelersbackpack.spider_16.09.2026-03.26.28.dat
+[03:26:28] [Server thread/INFO]: Created new backpack backup file for DraculaNew with unique ID travelersbackpack.spider_16.09.2026-03.26.28.dat
+[03:26:28] [Server thread/INFO]: Your backpack has been placed at X: 159 Y: 63 Z: -1167
+[03:32:01] [Server thread/INFO]: marinet45[/172.29.35.46:59601] logged in with entity id 8645 at (3545.0621594834274, -45.0, -2591.994961749556)
+[03:32:01] [Server thread/INFO]: marinet45 joined the game
+[03:33:26] [Server thread/INFO]: Mattute_uwu was slain by bohemia
+[03:33:26] [Server thread/INFO]: Created new backpack backup file for Mattute_uwu with unique ID travelersbackpack.wither_16.09.2026-03.33.26.dat
+[03:33:26] [Server thread/INFO]: Created new backpack backup file for Mattute_uwu with unique ID travelersbackpack.wither_16.09.2026-03.33.26.dat
+[03:33:26] [Server thread/INFO]: Your backpack has been placed at X: 52 Y: 79 Z: -262
+[03:33:32] [Server thread/INFO]: marinet45 lost connection: Disconnected
+[03:33:32] [Server thread/INFO]: marinet45 left the game
+[03:33:50] [Server thread/INFO]: Mattute_uwu was slain by bohemia
+[03:34:04] [Server thread/INFO]: Mattute_uwu was slain by bohemia
+[03:34:16] [Server thread/INFO]: Mattute_uwu was slain by bohemia
+[03:34:46] [Server thread/INFO]: Mattute_uwu was slain by bohemia
+[03:35:23] [Server thread/INFO]: Mattute_uwu lost connection: Timed out
+[03:35:23] [Server thread/INFO]: Mattute_uwu left the game
+[03:35:24] [Server thread/INFO]: DraculaNew lost connection: Timed out
+[03:35:24] [Server thread/INFO]: DraculaNew left the game
+[03:36:29] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:60092] logged in with entity id 10027 at (48.9418896179629, 100.5, -278.7117827854271)
+[03:36:29] [Server thread/INFO]: Mattute_uwu joined the game
+[03:36:47] [Server thread/INFO]: DraculaNew[/172.29.103.188:55160] logged in with entity id 10078 at (48.43815447234375, 78.92159999847412, -263.1765238096436)
+[03:36:47] [Server thread/INFO]: DraculaNew joined the game
+[03:37:12] [Server thread/INFO]: DraculaNew was slain by bohemia
+[03:37:12] [Server thread/INFO]: Created new backpack backup file for DraculaNew with unique ID travelersbackpack.spider_16.09.2026-03.37.12.dat
+[03:37:12] [Server thread/INFO]: Created new backpack backup file for DraculaNew with unique ID travelersbackpack.spider_16.09.2026-03.37.12.dat
+[03:37:12] [Server thread/INFO]: Your backpack has been placed at X: 46 Y: 110 Z: -290
+[03:37:37] [Server thread/INFO]: Mattute_uwu lost connection: Disconnected
+[03:37:37] [Server thread/INFO]: Mattute_uwu left the game
+[03:39:57] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:60115] logged in with entity id 12465 at (-92.53595047740367, 63.0, -218.9080351523261)
+[03:39:57] [Server thread/INFO]: Mattute_uwu joined the game
+[03:43:12] [Server thread/INFO]: Mattute_uwu lost connection: Disconnected
+[03:43:12] [Server thread/INFO]: Mattute_uwu left the game
+[03:43:22] [Server thread/INFO]: DraculaNew was slain by bohemia
+[03:43:22] [Server thread/INFO]: Created new backpack backup file for DraculaNew with unique ID travelersbackpack.spider_16.09.2026-03.43.22.dat
+[03:43:22] [Server thread/INFO]: Created new backpack backup file for DraculaNew with unique ID travelersbackpack.spider_16.09.2026-03.43.22.dat
+[03:43:22] [Server thread/INFO]: Your backpack has been placed at X: 70 Y: 59 Z: -1143
+[03:49:34] [Server thread/INFO]: DraculaNew lost connection: Timed out
+[03:49:34] [Server thread/INFO]: DraculaNew left the game
+[03:52:30] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:60087] logged in with entity id 24505 at (-69.55554748575217, 63.0, -208.36239918431923)
+[03:52:30] [Server thread/INFO]: Mattute_uwu joined the game
+[03:53:11] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[03:54:14] [Server thread/INFO]: [Yazuu: Teleported Yazuu to Mattute_uwu]
+[03:54:29] [Server thread/WARN]: Yazuu moved too quickly! 0.0,11.748939881377083,0.0
+[03:56:55] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=50, y=70, z=-63} BlockPos{x=51, y=68, z=-65}
+[03:56:55] [Server thread/WARN]: Mattute_uwu was kicked for floating too long!
+[03:56:55] [Server thread/INFO]: Mattute_uwu lost connection: Flying is not enabled on this server
+[03:56:55] [Server thread/INFO]: Mattute_uwu left the game
+[03:57:17] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:59666] logged in with entity id 28729 at (248.20614641344142, 70.7531999805212, -1137.3979725907727)
+[03:57:17] [Server thread/INFO]: Mattute_uwu joined the game
+[03:58:10] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=57, y=67, z=-31} BlockPos{x=58, y=65, z=-31}
+[03:58:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=58, y=67, z=-31} BlockPos{x=58, y=65, z=-28}
+[03:58:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=58, y=67, z=-31} BlockPos{x=58, y=65, z=-28}
+[03:58:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=58, y=67, z=-32} BlockPos{x=58, y=65, z=-28}
+[03:58:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=58, y=67, z=-32} BlockPos{x=58, y=65, z=-28}
+[03:58:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=59, y=67, z=-31} BlockPos{x=59, y=65, z=-29}
+[03:58:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=59, y=67, z=-31} BlockPos{x=59, y=65, z=-29}
+[03:58:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=53, y=65, z=-25} BlockPos{x=54, y=64, z=-27}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=53, y=65, z=-25} BlockPos{x=54, y=64, z=-27}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=53, y=65, z=-25} BlockPos{x=54, y=64, z=-27}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=53, y=65, z=-25} BlockPos{x=54, y=64, z=-27}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=53, y=65, z=-25} BlockPos{x=54, y=64, z=-27}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=53, y=65, z=-25} BlockPos{x=54, y=64, z=-27}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=51, y=64, z=-27} BlockPos{x=51, y=65, z=-25}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=51, y=64, z=-27} BlockPos{x=51, y=65, z=-25}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=51, y=64, z=-27} BlockPos{x=51, y=65, z=-25}
+[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=51, y=64, z=-27} BlockPos{x=51, y=65, z=-25}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:44] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=42, y=64, z=-23}
+[03:58:45] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=40, y=63, z=-24}
+[03:58:45] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=65, z=-24} BlockPos{x=40, y=63, z=-24}
+[03:59:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=44, y=65, z=-27} BlockPos{x=46, y=62, z=-26}
+[03:59:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=44, y=65, z=-27} BlockPos{x=46, y=62, z=-26}
+[03:59:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=44, y=65, z=-27} BlockPos{x=46, y=62, z=-26}
+[03:59:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=44, y=65, z=-27} BlockPos{x=46, y=62, z=-26}
+[03:59:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=39, y=65, z=-25} BlockPos{x=40, y=63, z=-25}
+[03:59:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=38, y=65, z=-25} BlockPos{x=40, y=63, z=-25}
+[03:59:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=-22} BlockPos{x=37, y=66, z=-21}
+[03:59:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=-22} BlockPos{x=37, y=66, z=-21}
+[03:59:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=-22} BlockPos{x=37, y=66, z=-21}
+[03:59:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=-22} BlockPos{x=37, y=66, z=-21}
+[03:59:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=-22} BlockPos{x=37, y=66, z=-21}
+[03:59:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=66, z=-22} BlockPos{x=37, y=66, z=-21}
+[03:59:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=65, z=-24} BlockPos{x=37, y=63, z=-24}
+[03:59:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=65, z=-25} BlockPos{x=37, y=63, z=-24}
+[03:59:25] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=65, z=-24} BlockPos{x=38, y=65, z=-27}
+[03:59:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=38, y=65, z=-24} BlockPos{x=38, y=63, z=-26}
+[03:59:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=65, z=-26} BlockPos{x=36, y=63, z=-26}
+[03:59:31] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=67, z=-28} BlockPos{x=36, y=64, z=-29}
+[03:59:31] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=67, z=-28} BlockPos{x=36, y=64, z=-29}
+[03:59:31] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=37, y=67, z=-28} BlockPos{x=36, y=64, z=-29}
+[03:59:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=67, z=-29} BlockPos{x=40, y=66, z=-32}
+[03:59:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=41, y=67, z=-29} BlockPos{x=40, y=66, z=-32}
+[03:59:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=67, z=-29} BlockPos{x=40, y=66, z=-32}
+[03:59:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[03:59:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=42, y=68, z=-33} BlockPos{x=42, y=66, z=-34}
+[04:00:56] [Server thread/INFO]: [Yazuu: Set own game mode to Spectator Mode]
+[04:01:06] [Server thread/INFO]: [Yazuu: Set bohemia's game mode to Spectator Mode]
+[04:01:17] [Server thread/INFO]: [Yazuu: Set own game mode to Survival Mode]
+[04:01:54] [Server thread/INFO]: [Yazuu: Teleported Yazuu to Mattute_uwu]
+[04:03:43] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:03:47] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:03:49] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:03:51] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:03:53] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:03:55] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:03:58] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:16] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:18] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:20] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:21] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:22] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:24] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:25] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:27] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:29] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:33] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:34] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:04:41] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:05:30] [Server thread/INFO]: [Yazuu: Teleported bohemia to Yazuu]
+[04:05:39] [Server thread/INFO]: marinet45[/172.29.35.46:55841] logged in with entity id 36056 at (3434.870425441166, -51.0, -2568.7915658948873)
+[04:05:39] [Server thread/INFO]: marinet45 joined the game
+[04:09:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=96, y=112, z=-271} BlockPos{x=96, y=110, z=-271}
+[04:10:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=48, y=115, z=-308} BlockPos{x=48, y=113, z=-307}
+[04:11:07] [Server thread/INFO]: [Not Secure] <marinet45> 3369 -2653
+[04:13:01] [Server thread/WARN]: bohemia moved too quickly! 6.826771527657467,-3.369388557363088,6.531404208208357
+[04:13:23] [Server thread/INFO]: bohemia lost connection: Timed out
+[04:13:23] [Server thread/INFO]: bohemia left the game
+[04:13:35] [Server thread/INFO]: bohemia[/172.29.182.214:56636] logged in with entity id 44242 at (-19.146693068982845, -23.135925013929477, -295.1775350938585)
+[04:13:35] [Server thread/INFO]: bohemia joined the game
+[04:13:52] [Server thread/INFO]: [Not Secure] <Yazuu> desmuteanos loca
+[04:14:42] [Server thread/INFO]: [Not Secure] <Yazuu> desmuteame
+[04:17:17] [Server thread/INFO]: [Not Secure] <Yazuu> q cierre el culo esa hdp
+[04:17:24] [Server thread/INFO]: [Not Secure] <Yazuu> si no va escuchar las 2 versiones
+[04:18:58] [Server thread/INFO]: [Yazuu: Teleported Mattute_uwu to Yazuu]
+[04:19:08] [Server thread/INFO]: [Not Secure] <Yazuu> q se ofende esa
+[04:19:12] [Server thread/INFO]: [Not Secure] <Yazuu> si nadie le hizo nada
+[04:19:17] [Server thread/INFO]: [Not Secure] <Mattute_uwu> FLASHERA ESAAA
+[04:19:17] [Server thread/INFO]: [Not Secure] <Yazuu> literal es la
+[04:19:22] [Server thread/INFO]: [Not Secure] <Yazuu> quisiera ser la muerta
+[04:19:26] [Server thread/INFO]: [Not Secure] <Yazuu> para q hablend de mi
+[04:20:01] [Server thread/INFO]: [Not Secure] <Yazuu> q cierre el culo
+[04:20:09] [Server thread/INFO]: [Not Secure] <Yazuu> si no sabe toda la historia
+[04:20:20] [Server thread/INFO]: [Not Secure] <Yazuu> habla al pedo
+[04:20:33] [Server thread/INFO]: [Not Secure] <Mattute_uwu> ANDA A hacer los fiideos marinet
+[04:21:35] [Server thread/INFO]: Mattute_uwu was doomed to fall
+[04:21:36] [Server thread/INFO]: [Not Secure] <Yazuu> chupala marine te cerraron el hocico
+[04:21:40] [Server thread/INFO]: Mattute_uwu has reached the goal [Beaconator]
+[04:21:40] [Server thread/INFO]: Mattute_uwu has made the advancement [Bring Home the Beacon]
+[04:21:44] [Server thread/ERROR]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5ae0edd2, suppressing error
+java.lang.IllegalArgumentException: [Fabric] Extended menu zeroteam_gravestone:gravestone must be opened with an ExtendedMenuProvider!
+	at knot//net.minecraft.server.level.ServerPlayer.handler$zkd000$fabric-menu-api-v1$fabric_storeOpenedMenu(ServerPlayer.java:5024)
+	at knot//net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1454)
+	at knot//net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:360)
+	at knot//net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1467)
+	at knot//net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1032)
+	at knot//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:773)
+	at knot//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[04:21:44] [Server thread/ERROR]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2c367298, suppressing error
+java.lang.IllegalArgumentException: [Fabric] Extended menu zeroteam_gravestone:gravestone must be opened with an ExtendedMenuProvider!
+	at knot//net.minecraft.server.level.ServerPlayer.handler$zkd000$fabric-menu-api-v1$fabric_storeOpenedMenu(ServerPlayer.java:5024)
+	at knot//net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1454)
+	at knot//net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:360)
+	at knot//net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1467)
+	at knot//net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:42)
+	at knot//net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10)
+	at knot//net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:55)
+	at knot//net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:38)
+	at knot//net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1032)
+	at knot//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:773)
+	at knot//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[04:21:55] [Server thread/INFO]: [Yazuu: Teleported Mattute_uwu to Yazuu]
+[04:22:37] [Server thread/INFO]: [Not Secure] <Mattute_uwu> pingo pa ti
+[04:23:38] [Server thread/INFO]: Mattute_uwu fell from a high place
+[04:24:20] [Server thread/INFO]: Mattute_uwu lost connection: Disconnected
+[04:24:20] [Server thread/INFO]: Mattute_uwu left the game
+[04:25:38] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:59769] logged in with entity id 49007 at (45.26764840108755, 72.0, -243.0784572261739)
+[04:25:38] [Server thread/INFO]: Mattute_uwu joined the game
+[04:25:52] [Server thread/INFO]: Mattute_uwu was shot by Skeleton
+[04:26:27] [Server thread/INFO]: [Not Secure] <Mattute_uwu> y los fideos marinet??
+[04:26:33] [Server thread/WARN]: Mattute_uwu was kicked for floating too long!
+[04:26:33] [Server thread/INFO]: Mattute_uwu lost connection: Flying is not enabled on this server
+[04:26:33] [Server thread/INFO]: Mattute_uwu left the game
+[04:26:58] [Server thread/INFO]: Mattute_uwu[/172.29.228.210:59777] logged in with entity id 49908 at (79.90330824312156, 64.25220334025373, -1123.82631810901)
+[04:26:58] [Server thread/INFO]: Mattute_uwu joined the game
+[04:27:19] [Server thread/WARN]: Mattute_uwu moved too quickly! 8.740939154139426,1.0013359791121417,5.167757648574707
+[04:27:50] [Server thread/INFO]: Yazuu lost connection: Disconnected
+[04:27:50] [Server thread/INFO]: Yazuu left the game
+[04:28:08] [Server thread/INFO]: Stopping the server
+[04:28:08] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:28:08] [Server thread/INFO]: <--[HERE]
+[04:28:08] [Server thread/INFO]: Stopping server
+[04:28:08] [Server thread/INFO]: Saving players
+[04:28:08] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:281)
+	at java.base/java.lang.System$In.read(System.java:1872)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:183)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400)
+	at knot//net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:146)
+[04:28:08] [Server thread/INFO]: marinet45 lost connection: Server closed
+[04:28:08] [Server thread/INFO]: marinet45 left the game
+[04:28:08] [Server thread/INFO]: Mattute_uwu lost connection: Server closed
+[04:28:08] [Server thread/INFO]: Mattute_uwu left the game
+[04:28:08] [Server thread/INFO]: Saving worlds
+[04:28:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:28:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:28:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:28:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:28:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:28:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:28:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
